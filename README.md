@@ -1,6 +1,6 @@
 # Finance-Tracker-GunnHacks
 
-![alt tag](https://github.com/sguduguntla/Finance-Tracker-GunnHacks/blob/master/img/Icon%203.png) 
+![alt tag](https://github.com/sguduguntla/Finance-Tracker-GunnHacks/blob/master/img/finance-icons/apple-touch-icon-180x180.png) 
 
 #Inspiration
 
