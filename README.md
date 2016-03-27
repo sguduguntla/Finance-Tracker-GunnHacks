@@ -1,5 +1,7 @@
 # Finance-Tracker-GunnHacks
 
+http://tinyurl.com/financetrack
+
 ![alt tag](https://github.com/sguduguntla/Finance-Tracker-GunnHacks/blob/master/img/finance-icons/apple-touch-icon-180x180.png) 
 
 #Inspiration
