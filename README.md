@@ -1,5 +1,7 @@
 # Finance-Tracker-GunnHacks
 
+![alt tag](https://github.com/sguduguntla/Finance-Tracker-GunnHacks/blob/master/img/Icon%203.png) 
+
 #Inspiration
 
 Often times, people are afraid of the stock market because it seems intimidating and like too much of a risk because they can't keep track of what they've invested in, let alone figure out what are good stocks to buy in the future. Our applications aim to solve this fear by not only helping people keep track of the stocks they've purchased, but also to provide guidance on which stocks are best to buy next, based on things like market cap, trends, and the affordability.
