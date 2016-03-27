@@ -1,4 +1,4 @@
-# Finance-Tracker-GunnHacks
+# Finance-Tracker-GunnHacks by Sriharsha Guduguntla (sguduguntla) and Laikh Tewari (laikhtewari)
 
 http://tinyurl.com/financetrack
 
