@@ -2,7 +2,7 @@
 
 by Sriharsha Guduguntla (sguduguntla) and Laikh Tewari (laikhtewari)
 
-http://tinyurl.com/financetrack
+http://www.sriharshaguduguntla.com/finance-tracker
 
 ![alt tag](https://github.com/sguduguntla/Finance-Tracker-GunnHacks/blob/master/img/finance-icons/apple-touch-icon-180x180.png) 
 
